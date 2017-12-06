@@ -1,4 +1,4 @@
-update=Thứ tư, 06 Tháng mười hai Năm 2017 13:15:23 ICT
+update=Thứ tư, 06 Tháng mười hai Năm 2017 15:54:01 ICT
 version=1
 last_client=kicad
 [pcbnew]
@@ -20,6 +20,9 @@ SolderMaskMinWidth=0.000000000000
 DrawSegmentWidth=0.200000000000
 BoardOutlineThickness=0.100000000000
 ModuleOutlineThickness=0.150000000000
+[cvpcb]
+version=1
+NetIExt=net
 [general]
 version=1
 [schematic_editor]
@@ -32,9 +35,6 @@ NetFmtName=
 SpiceForceRefPrefix=0
 SpiceUseNetNumbers=0
 LabSize=60
-[cvpcb]
-version=1
-NetIExt=net
 [eeschema]
 version=1
 LibDir=lib
@@ -71,11 +71,12 @@ LibName29=opto
 LibName30=atmel
 LibName31=contrib
 LibName32=valves
-LibName33=/home/pmluan/PCB/KiCAD/01SCHLib/KiCAD_pml
-LibName34=lib/dc-dc
-LibName35=lib/open-project
-LibName36=lib/tom_kicad
-LibName37=lib/w_device
-LibName38=lib/esp32-wrover-v3
-LibName39=lib/esp-uno
-LibName40=lib/esp-wroom-32
+LibName33=lib/dc-dc
+LibName34=lib/G3MB-202P
+LibName35=lib/KiCAD_pml
+LibName36=lib/open-project
+LibName37=lib/switch-omron
+LibName38=lib/tom_kicad
+LibName39=lib/w_device
+LibName40=lib/MOSFET-N
+LibName41=lib/AN6884

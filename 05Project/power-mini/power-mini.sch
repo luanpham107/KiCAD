@@ -32,6 +32,13 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:dc-dc
+LIBS:open-project
+LIBS:tom_kicad
+LIBS:w_device
+LIBS:esp32-wrover-v3
+LIBS:esp-uno
+LIBS:esp-wroom-32
+LIBS:power-mini-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -52,7 +59,7 @@ U 1 1 5A267808
 P 2300 1500
 F 0 "U1" H 1900 1850 50  0000 L CNN
 F 1 "GL2576-12TB5T" H 1900 1750 50  0000 L CNN
-F 2 "Buttons_Switches_SMD:Nidec_Copal_SH-7010A" H 2600 1250 50  0000 C CIN
+F 2 "Socket_Strips:Socket_Strip_Angled_1x05_Pitch2.54mm" H 2600 1250 50  0000 C CIN
 F 3 "" H 2300 1500 50  0000 C CNN
 	1    2300 1500
 	1    0    0    -1  
@@ -63,7 +70,7 @@ U 1 1 5A267BA5
 P 1150 1400
 F 0 "J1" H 1150 1500 50  0000 C CNN
 F 1 "Conn_01x02" H 1150 1200 50  0000 C CNN
-F 2 "Connectors:Banana_Jack_2Pin" H 1150 1400 50  0001 C CNN
+F 2 "Connectors:PINHEAD1-2" H 1150 1400 50  0001 C CNN
 F 3 "" H 1150 1400 50  0001 C CNN
 	1    1150 1400
 	-1   0    0    -1  
@@ -99,7 +106,7 @@ U 1 1 5A267C5C
 P 2350 1000
 F 0 "L1" V 2300 1000 50  0000 C CNN
 F 1 "L" V 2425 1000 50  0000 C CNN
-F 2 "Connectors:BNC" H 2350 1000 50  0001 C CNN
+F 2 "Inductors_THT:L_Axial_L5.3mm_D2.2mm_P2.54mm_Vertical_Vishay_IM-1" H 2350 1000 50  0001 C CNN
 F 3 "" H 2350 1000 50  0001 C CNN
 	1    2350 1000
 	0    -1   -1   0   
@@ -124,7 +131,7 @@ U 1 1 5A267D81
 P 3300 1400
 F 0 "J2" H 3300 1500 50  0000 C CNN
 F 1 "Conn_01x02" H 3300 1200 50  0000 C CNN
-F 2 "Connectors:GS2" H 3300 1400 50  0001 C CNN
+F 2 "Connectors:PINHEAD1-2" H 3300 1400 50  0001 C CNN
 F 3 "" H 3300 1400 50  0001 C CNN
 	1    3300 1400
 	1    0    0    -1  
