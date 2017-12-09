@@ -3,4 +3,5 @@
   (lib (name G3MB-202P)(type Legacy)(uri "$(KIPRJMOD)/lib/footprint.pretty/G3MB-202P.mod")(options "")(descr ""))
   (lib (name AN6884)(type Legacy)(uri "$(KIPRJMOD)/lib/footprint.pretty/AN6884.mod")(options "")(descr ""))
   (lib (name NE555N)(type Legacy)(uri "$(KIPRJMOD)/lib/footprint.pretty/NE555N.mod")(options "")(descr ""))
+  (lib (name SKHHANA010)(type Legacy)(uri "$(KIPRJMOD)/lib/footprint.pretty/SKHHANA010.mod")(options "")(descr ""))
 )

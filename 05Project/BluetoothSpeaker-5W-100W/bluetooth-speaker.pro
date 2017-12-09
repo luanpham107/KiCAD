@@ -1,4 +1,4 @@
-update=Thứ tư, 06 Tháng mười hai Năm 2017 15:54:01 ICT
+update=Sat 09 Dec 2017 05:06:18 PM ICT
 version=1
 last_client=kicad
 [pcbnew]
@@ -80,3 +80,5 @@ LibName38=lib/tom_kicad
 LibName39=lib/w_device
 LibName40=lib/MOSFET-N
 LibName41=lib/AN6884
+LibName42=lib/csr8630-module
+LibName43=lib/SKHHANA010
